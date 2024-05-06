@@ -50,8 +50,8 @@ Section  | Software Required                 | OS required
 # Get to Know the Author #
 **Paul Dang Kiat** is a former collegiate athlete turned Social/Behavioral Psychoanalyst, Biomechanist, and now 3D Software Engineer who is determined to make a global impact leveraging emerging technology and culture. 
 
-His contributions to advancing ManKind will undoubtedly be invaluable; mirroring his voice that resonates across numerous stages on which he's been invited to share his knowledge and expertise. 
+His contributions to advancing HumanKind will undoubtedly be invaluable; mirroring his voice that resonates across numerous stages on which he's been invited to share his knowledge and expertise. 
 
-A mentor to his 1-year-old son, he advances into independent studies in Experimental Elementary Education with WeckMethod_(***Body***), Montessori_(***Mind***), and Waldorf_(***Spirit***). As a first-generation Asian American in his family's immigrant history, he seeks mastery in architecting systems that awaken the truest values out of the fundamental building blocks of life. 
+A mentor to his 1-year-old son, he advances into independent studies in Experimental Elementary Education with WeckMethod, Montessori, and Waldorf. As a first-generation Asian American in his family's immigrant history, he seeks mastery in architecting systems that awaken the truest values out of the fundamental building blocks of life. 
 
 Passionate about crystallizing connections, Paul's primary goal is to Engineer, Innovate, and Author his creativity to inspire our future generations' protection and pursuit of their dreams.
